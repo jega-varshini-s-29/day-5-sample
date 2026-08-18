@@ -17,8 +17,6 @@
 [x] watching flin<br>
 [!alternate text](https://www.pinterest.com/pin/120-latest-whatsapp-dp-images-best-whatsapp-dp-2023--741264419948774121/)
 <br>
-| name| age| qualification|<br>
-| xxx| yy| zzz|
-:--- left-align
-:---: center-align
----: right-align
+| name | age | qualification |<br>
+| xxx| yy | zzz |
+
