@@ -17,6 +17,6 @@
 [x] watching flin<br>
 [!alternate text](https://www.pinterest.com/pin/120-latest-whatsapp-dp-images-best-whatsapp-dp-2023--741264419948774121/)
 <br>
-| name | age | qualification |<br>
-|---||---||---|
-| sri | jaya | gaya |
+|name|age|qualification|
+|------||----|---------------|
+|sri|jaya|gaya|
