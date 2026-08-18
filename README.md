@@ -17,5 +17,9 @@
 [x] watching flin<br>
 [!alternate text](https://www.pinterest.com/pin/120-latest-whatsapp-dp-images-best-whatsapp-dp-2023--741264419948774121/)
 <br>
+
 | name | age | qualification |
-| ---- | --- | ------------- |
+| ---- | ------ | ---------  |
+| jega | 19 | 12th pass |
+<b> creating drop down</b>
+<details></details>
