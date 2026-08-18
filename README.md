@@ -19,6 +19,6 @@
 <br>
 | name| age| qualification|<br>
 | xxx| yy| zzz|
-:---left-align
-:---:center-align
----:right-align
+:--- left-align
+:---: center-align
+---: right-align
