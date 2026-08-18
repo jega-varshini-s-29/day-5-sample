@@ -15,6 +15,10 @@
 [] music<br>
 [] story reading<br>
 [x] watching flin<br>
-[!alternate text](<img width="335" height="597" alt="image" src="https://github.com/user-attachments/assets/08aa28f1-1774-48a0-98ae-48d2bae34ac5" />
-
-
+[!alternate text](https://www.pinterest.com/pin/120-latest-whatsapp-dp-images-best-whatsapp-dp-2023--741264419948774121/)
+<br>
+| name | age | qualification |<br>
+| xxx | yy | zzz |
+:---left-align
+:---:center-align
+---:right-align
